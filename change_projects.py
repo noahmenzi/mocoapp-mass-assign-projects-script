@@ -31,7 +31,7 @@ new_id = input("Please enter the id of the new project leader. This new leader w
 for i in data:
     project_url = URL + str(i['id'])
     print(project_url)
-    response = requests.request("PUT", project_url, data={'leader_id' : '933641692'}, headers=HEADERS)
+    response = requests.request("PUT", project_url, data={'leader_id' : new_id}, headers=HEADERS)
     print(response.status_code)
 
 print("Success!")
