@@ -8,6 +8,6 @@ After replacing the mentioned values above, you are asked to enter the ID of the
 
 ## Requirements
 You will need
-* A Moco Account
+* A Moco Account: https://www.mocoapp.com/
 * Python3 installed
 * The Python library Requests: https://docs.python-requests.org/en/latest/user/install/
