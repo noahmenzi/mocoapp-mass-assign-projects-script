@@ -1,4 +1,4 @@
-# Mass Assign a new project leader to multiple Moco projects
+# Mass assign a new project leader to multiple Moco projects
 This python script helps to change the project leader of multiple projects in the Moco App.
 
 ## How it works
