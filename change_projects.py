@@ -9,7 +9,7 @@ URL = "https://{{domain}}.mocoapp.com/api/v1/projects/"
  
  # Headers, replace YOUR_API_KEY
 HEADERS = {
-    "Content-Type": "multipart/form-data;",
+    "Content-Type": "application/json;",
     "Authorization": "Bearer YOUR_API_KEY"
 }
 
